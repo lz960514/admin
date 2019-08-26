@@ -1,4 +1,4 @@
- import axios, { AxiosResponse, AxiosRequestConfig } from 'axios';
+import axios, { AxiosResponse, AxiosRequestConfig } from 'axios';
 
 import { Message } from 'element-ui';
 
